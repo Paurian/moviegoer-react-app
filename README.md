@@ -2,6 +2,10 @@
 
 This web application displays a board of movie cards, using React and The Movie Db (TMDb).
 
+## Demo
+
+You can view this [demo](http://wordpress.paurian.com/WebApps/moviegoer-react-app/) at the [Paurian Café](http://wordpress.paurian.com)
+
 ## Getting Started
 
 You'll need to have NodeJS installed for NPM to build and run the application.
